@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+Welcome to ARM® 21.6
+ARM- Total Automation for your Salesforce CI/CD Pipeline. ARM delivers a unified CI/CD solution purpose-built for Salesforce. The ease of use provided by ARM makes it much easier for Salesforce administrators and developers to leverage an enterprise-class DevOps process to accelerate their journey from defining requirements to deploying code. ARM is a cloud-based CI/CD and releases automation suite specifically designed for Salesforce.com. ARM helps Salesforce developers, admins, analysts, and release managers automate version control, deployment, testing, data loading, and sandbox management across multiple Salesforce Orgs.
 
-You can use the [editor on GitHub](https://github.com/dipendersharma/ARM/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+What I can do with ARM?
+If you develop on the Salesforce platform, you can use ARM to:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Rapidly compare environments to see the differences
+Quickly build deployment packages to get orgs in sync
+Integrate version control into your development process
+Set up advanced deployment automation
+Track changes between environments with detailed change reports
+Adopt Salesforce DX without the command line
+Reduce risks with rollback and metadata backups
+Improve team collaboration and reduce code conflicts
+Move data records between production orgs and sandboxes
+Who can use ARM?
+Salesforce Administrators: Salesforce Administrators who want a faster, more powerful alternative to changesets that is easy to use and helps them quickly move changes without the command line
+Salesforce Developers: Salesforce Developers looking for a tool that enables them to adopt modern development practices such as version control, continuous integration, and automated dependency analysis, while removing the need for the manual XML editing of Ant-based development
+Release Managers: Release Managers and Technical Architects who want to improve deployment velocity, facilitate team collaboration, and deliver features to their end users more quickly and reliable
+Consultants and Implementation Partners: Consultants and Implementation Partners who want a way to build, track, and manage changes across multiple clients and organizations and provide detailed reports of their project progress.
+Supported License Models
+The ARM application is available in three editions. Standard is the base-level edition, and Professional and Enterprise add even more capabilities and levels of support.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dipendersharma/ARM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Model
+Description
+Standard
+Standard edition is the edition of IDE for open source projects, academic uses or are a group of teams with 5 or fewer developers.
+Professional
+Professional edition is the edition of IDE for minimal teams (5-25 developers) and small projects.
+Enterprise
+Enterprise licenses are typically for large customers and provide some flexibility, an agreed-upon discount price, and a mechanism for easy administration.
+Compare Plans
+Looking to compare ARM subscriptions? Go to the ARM Compare Plan page.
+For information about subscription benefits and pricing, reach out to the ARM Sales Team.
